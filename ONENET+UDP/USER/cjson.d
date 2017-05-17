@@ -1,0 +1,9 @@
+.\cjson.o: ..\UDP\cJSON.c
+.\cjson.o: D:\STM32\MDK5\ARM\ARMCC\bin\..\include\string.h
+.\cjson.o: D:\STM32\MDK5\ARM\ARMCC\bin\..\include\stdio.h
+.\cjson.o: D:\STM32\MDK5\ARM\ARMCC\bin\..\include\math.h
+.\cjson.o: D:\STM32\MDK5\ARM\ARMCC\bin\..\include\stdlib.h
+.\cjson.o: D:\STM32\MDK5\ARM\ARMCC\bin\..\include\float.h
+.\cjson.o: D:\STM32\MDK5\ARM\ARMCC\bin\..\include\limits.h
+.\cjson.o: D:\STM32\MDK5\ARM\ARMCC\bin\..\include\ctype.h
+.\cjson.o: ..\UDP\cJSON.h
